@@ -1,4 +1,4 @@
-# CyberPython: Network Scanner
+#Python Network Scanner
 
 A command-line network scanner written in Python. It discovers live hosts on a network, scans their TCP ports using multithreaded sockets, and can identify operating systems and MAC address vendors using Nmap.
 
